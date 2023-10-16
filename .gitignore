@@ -1,2 +1,4 @@
-images_markdown
-images_markdown/*
+images
+images*
+/images
+/images*
